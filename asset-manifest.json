@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/perrymw.github.io/static/css/main.acecb746.chunk.css",
+    "main.js": "/perrymw.github.io/static/js/main.9942642d.chunk.js",
+    "main.js.map": "/perrymw.github.io/static/js/main.9942642d.chunk.js.map",
+    "runtime-main.js": "/perrymw.github.io/static/js/runtime-main.29aad457.js",
+    "runtime-main.js.map": "/perrymw.github.io/static/js/runtime-main.29aad457.js.map",
+    "static/css/2.83ace7dd.chunk.css": "/perrymw.github.io/static/css/2.83ace7dd.chunk.css",
+    "static/js/2.97e07685.chunk.js": "/perrymw.github.io/static/js/2.97e07685.chunk.js",
+    "static/js/2.97e07685.chunk.js.map": "/perrymw.github.io/static/js/2.97e07685.chunk.js.map",
+    "index.html": "/perrymw.github.io/index.html",
+    "precache-manifest.3bd6225fa200d238b3d1160e3b350e39.js": "/perrymw.github.io/precache-manifest.3bd6225fa200d238b3d1160e3b350e39.js",
+    "service-worker.js": "/perrymw.github.io/service-worker.js",
+    "static/css/2.83ace7dd.chunk.css.map": "/perrymw.github.io/static/css/2.83ace7dd.chunk.css.map",
+    "static/css/main.acecb746.chunk.css.map": "/perrymw.github.io/static/css/main.acecb746.chunk.css.map",
+    "static/media/Resume_photo.jpeg": "/perrymw.github.io/static/media/Resume_photo.a146d246.jpeg",
+    "static/media/download.jpg": "/perrymw.github.io/static/media/download.1cc0823f.jpg",
+    "static/media/git-background.jpeg": "/perrymw.github.io/static/media/git-background.84d86308.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29aad457.js",
+    "static/css/2.83ace7dd.chunk.css",
+    "static/js/2.97e07685.chunk.js",
+    "static/css/main.acecb746.chunk.css",
+    "static/js/main.9942642d.chunk.js"
+  ]
+}
